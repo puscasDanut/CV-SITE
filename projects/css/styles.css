@@ -1,0 +1,40 @@
+/* TAG SELLECTORS*/
+body {
+    background-color: beige;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+h1 {
+    color: red;
+    font-size: 200px;
+    font-style: italic;
+}
+
+p {
+    color: blue;
+    font-size: 40px;
+    background-color: orange;
+}
+/* CLASS SELECTORS*/
+.candy {
+    background-color: red;
+}
+.gordon {
+    background-color: green;
+}
+.circular {
+    border-radius: 100%;
+}
+
+
+/*ID SELECTORS*/
+
+#heading {
+    color: blue;
+}
+#heading:hover {
+    color: gold;
+}

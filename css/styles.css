@@ -1,0 +1,33 @@
+body {
+    background-color: #C0EEF2;
+}
+hr {
+    background-color: #C0EEF2;
+    border-color:gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 7%;
+    height: 0px;
+}
+        
+h1 {
+    color: #537FE7;
+}
+h3 {
+    color: #19376D
+}
+
+#Portfolio:hover {
+    color: gold;
+}
+
+.Coding:hover {
+    background-color: orange;
+    border-radius: 100%;
+}
+
+#smk {
+    border-radius: 100%;
+}
+
